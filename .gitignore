@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Office lock/temp files
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Editors
+.vscode/
+.idea/
